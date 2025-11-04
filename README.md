@@ -47,7 +47,7 @@ The analysis is performed on the [Facebook dataset from SNAP](https://snap.stanf
 ## Example Output
 
 This is the output from running `analysis.py`.
-
+```
 Basic Graph Info:
 Number of nodes: 4039
 Number of edges: 88234
@@ -87,3 +87,10 @@ Top 5 largest communities:
 Visualizing:
 Preparing visualization of the largest community...
 Graph visualization saved to: visualizations/largest_community.png
+```
+
+## Graph Visualization
+
+Here is the visualization of the largest community found by the algorithm. This shows the internal structure of that "friend circle."
+
+![Visualization of the largest community](visualizations/largest_community.png)

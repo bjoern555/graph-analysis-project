@@ -3,6 +3,3 @@
 
 # Python cache
 __pycache__/
-
-# Output folder
-visualizations/
